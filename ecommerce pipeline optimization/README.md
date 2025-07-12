@@ -26,7 +26,7 @@ This project demonstrates a scalable and optimized data pipeline for e-commerce 
    - 04_data_analysis_gold_layer.py
 
 ## 📁 Input Data
-Included: `data/sample_raw_data.csv`
+Included: `data/ecommerce.csv`
 
 ## ✅ Output
 Optimized Delta tables partitioned by `category` and Z-Ordered by `order_date`
