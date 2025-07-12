@@ -1,0 +1,5 @@
+{"order_id": 1020, "customer_id": 1060, "order_timestamp": "2025-07-03T18:10:00", "product_id": 501, "category": "Electronics", "quantity": 1, "price": 199.99, "discount": 10.0, "status": "CONFIRMED"}
+{"order_id": 1021, "customer_id": 1087, "order_timestamp": "2025-07-03T10:22:00", "product_id": 601, "category": "Books", "quantity": 2, "price": 19.99, "discount": 0.0, "status": "CONFIRMED"}
+{"order_id": 1022, "customer_id": 1029, "order_timestamp": "2025-07-03T16:47:00", "product_id": 701, "category": "Clothing", "quantity": 2, "price": 49.99, "discount": 8.0, "status": "CONFIRMED"}
+{"order_id": 1023, "customer_id": 1038, "order_timestamp": "2025-07-03T14:05:00", "product_id": 801, "category": "Home", "quantity": 3, "price": 59.99, "discount": 10.0, "status": "CONFIRMED"}
+{"order_id": 1024, "customer_id": 1002, "order_timestamp": "2025-07-03T19:59:00", "product_id": 901, "category": "Toys", "quantity": 1, "price": 29.99, "discount": 5.0, "status": "CONFIRMED"}
