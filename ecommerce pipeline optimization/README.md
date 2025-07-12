@@ -3,6 +3,9 @@
 ## 📌 Overview
 This project demonstrates a scalable and optimized data pipeline for e-commerce order data using Databricks and PySpark. The pipeline consists of ingestion, transformation, optimization (Delta Lake), and final analytics-ready data storage.
 
+## 📁 Project Structure
+
+```
 
 databricks-optimization-pipeline/
 │
@@ -17,7 +20,7 @@ databricks-optimization-pipeline/
 │
 ├── README.md
 └── requirements.txt
-
+```
 ## 🧰 Technologies
 - Databricks
 - PySpark
