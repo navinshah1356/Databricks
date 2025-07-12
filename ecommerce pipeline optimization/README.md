@@ -32,4 +32,4 @@ Included: `data/ecommerce.csv`
 Optimized Delta tables partitioned by `category` and Z-Ordered by `order_date`
 
 ## 👨‍💻 Author
-Navin Shah | Data & BI Consultant
+Navin Shah | Data Engineer
