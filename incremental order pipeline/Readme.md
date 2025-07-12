@@ -16,8 +16,9 @@ A real-world simulation of an incremental order processing pipeline using **Delt
 - Delta Live Tables (DLT)
 - JSON logs, Delta Lake, Parquet
 
-## 📂 Project Structure
----
+## 📁 Project Structure
+
+```
 dlt-incremental-orders-pipeline/
 ├── dlt_pipeline.py
 ├── data/
@@ -26,7 +27,7 @@ dlt-incremental-orders-pipeline/
 │ └── orders_2025-07-03.json
 ├── README.md
 └── requirements.txt
----
+```
 
 
 ## 🚀 How to Run
