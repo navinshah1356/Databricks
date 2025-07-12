@@ -1,0 +1,7 @@
+{
+  "input_paths": {
+    "sales_data": "data/sales.csv",
+    "products_data": "data/products.csv"
+  },
+  "output_path": "output/final_aggregated_data"
+}
